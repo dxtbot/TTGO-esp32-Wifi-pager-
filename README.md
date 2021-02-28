@@ -2,8 +2,8 @@
 
 TT-GO T-DISPLAY ESP32 to make a Wi-Fi Pager 
 
-![IMG20210228091157](https://user-images.githubusercontent.com/20719445/109411956-a8978880-79a5-11eb-9652-7599aabc3ae6.jpg)
 ![IMG20210228091147](https://user-images.githubusercontent.com/20719445/109411957-a9301f00-79a5-11eb-90a8-c9d538a823ef.jpg)
+![IMG20210228091157](https://user-images.githubusercontent.com/20719445/109411956-a8978880-79a5-11eb-9652-7599aabc3ae6.jpg)
 ![IMG20210228091203](https://user-images.githubusercontent.com/20719445/109411958-a9301f00-79a5-11eb-8b57-4100799379fa.jpg)
 ![IMG20210228091226](https://user-images.githubusercontent.com/20719445/109412062-36737380-79a6-11eb-8543-86d99bb5525e.jpg)
 ![IMG20210212120737](https://user-images.githubusercontent.com/20719445/109412080-41c69f00-79a6-11eb-811a-eea297da18fe.jpg)
