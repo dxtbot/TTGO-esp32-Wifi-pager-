@@ -15,6 +15,7 @@ Its just handy to put on your desk .
 just mod these lines ! inside the sketch to setup your Wifi 
 
 #define APPNAME "YOUR WIFI SSID"    //Acces point name 
+
 #define WPAKEY "YOUR WIFI KEY HERE"      // WPA KEY  
 
 When holding 2 buttons at start it will have AUTO READ .
