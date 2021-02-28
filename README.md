@@ -20,8 +20,9 @@ lower button wil read the message
 its build using IDE ARDUINO , so easy 2 Upload the sketch , you need some Library's ,to make it al work ,
 i bought my TTGO here , 
 
+https://nl.aliexpress.com/item/4000272109285.html?spm=a2g0z.12010610.8148356.9.13ca1fccr53nWs
+
 ![IMG20210212120737](https://user-images.githubusercontent.com/20719445/109412080-41c69f00-79a6-11eb-811a-eea297da18fe.jpg)
 
 https://www.youtube.com/watch?v=Kon4jTut7Ec&t
 
-https://nl.aliexpress.com/item/4000272109285.html?spm=a2g0z.12010610.8148356.9.13ca1fccr53nWs
