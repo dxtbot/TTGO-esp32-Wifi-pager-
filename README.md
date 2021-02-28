@@ -3,6 +3,7 @@
 TT-GO T-DISPLAY ESP32 to make a Wi-Fi Pager 
 
 ![IMG20210206134501](https://user-images.githubusercontent.com/20719445/109410953-d3321300-799e-11eb-8981-98d60438cc81.jpg)
+
 i used a TT-GO T-DISPLAY ESP32 to make a Pager style look a like Wi-Fi Pager.
 It can pull text from pages or API pages setup using Thingspeak , ( or your own ).
 i like to follow police traffic Pager communications so i provide its pulling Pager messages from a P2000 pager site , also News and weather messages , it can handle 4 servers setup in the program , could ad more !
