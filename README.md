@@ -13,11 +13,11 @@ Its just handy to put on your desk .
 
 When holding 2 buttons at start it will have AUTO READ .
 So if there is a new message it will show it on the screen !
-https://www.youtube.com/watch?v=Kon4jTut7Ec&t
-
 hold top button wil select other server ,
 lower button wil read the message 
+
 its build using IDE ARDUINO , so easy 2 Upload the sketch , you need some Library's ,to make it al work ,
 i bought my TTGO here , 
 
+https://www.youtube.com/watch?v=Kon4jTut7Ec&t
 https://nl.aliexpress.com/item/4000272109285.html?spm=a2g0z.12010610.8148356.9.13ca1fccr53nWs
