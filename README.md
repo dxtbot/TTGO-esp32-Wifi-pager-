@@ -12,6 +12,11 @@ It can pull text from pages or API pages setup using Thingspeak , ( or your own 
 i like to follow police traffic Pager communications so i provide its pulling Pager messages from a P2000 pager site , also News and weather messages , it can handle 4 servers setup in the program , could ad more !
 Its just handy to put on your desk .
 
+just mod these lines ! inside the sketch to setup your Wifi 
+
+#define APPNAME "YOUR WIFI SSID"    //Acces point name 
+#define WPAKEY "YOUR WIFI KEY HERE"      // WPA KEY  
+
 When holding 2 buttons at start it will have AUTO READ .
 So if there is a new message it will show it on the screen !
 hold top button wil select other server ,
