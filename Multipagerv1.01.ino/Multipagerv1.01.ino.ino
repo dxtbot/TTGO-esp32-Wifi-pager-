@@ -12,8 +12,8 @@
 int AUTOSHOW = 0; // 0 disabled 1 enabled show's new message automativ on screen or hold both buttons on boot !!
 #define SHOWBAT 10 // wil show bat level after 5 pages refreshed and also pulls mesages from site in this rate .
 ////////////////// setup your wifi here //////////////////
-#define APPNAME "TELE2-EFC84F"    //Acces point name 
-#define WPAKEY "C16BEBD9E8"      // WPA KEY 
+#define APPNAME "YOUR WIFI SSID"    //Acces point name 
+#define WPAKEY "YOUR WIFI KEY HERE"      // WPA KEY 
 ///////////////////////////////////////////////////////////
 #include <Arduino.h>
 #include "Images.h"
